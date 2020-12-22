@@ -1,13 +1,13 @@
 const messages = [
-    "Not a chance!",
-    "Yes!",
-    "Keep dreaming",
-    "Outcome hazy",
-    "Ask again later",
-    "In a month",
-    "Possibly",
-    "Try again!",
-    "404"
+    "Very doubtful.",
+    "It is certain.",
+    "My sources say no.",
+    "Reply hazy, try again.",
+    "Better not tell you now.",
+    "Outlook good.",
+    "Concentrate and ask again.",
+    "Most likely.",
+    "Don't count on it."
   ];
   
   //function gets random message
