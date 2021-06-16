@@ -5,3 +5,5 @@ This application is an online version of the Magic 8 Ball used for fortune-telli
 Deployed: https://caseofbase18.github.io/magic-8-ball/
 
 <img src="./assets/magic8ball.png">
+
+<img src="./assets/magicanswer.png">
